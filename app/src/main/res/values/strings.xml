@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Medom</string>
+
+    //sign in
+    <string name="welcome">WELCOME To MEDOM!</string>
+    <string name="text_after_welcome">Get the best experience \n\ with the best doctors</string>
+    <string name="email">Email</string>
+    <string name="pword">Password</string>
+    <string name="forgot_pword">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account">if you don\'t have an account</string>
+
+    //sign up screen strings
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="register">REGISTER</string>
+    <string name="text_after_register">To get the best service from \n\ MEDOM</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="other_names">Other Names</string>
+    <string name="email_two">Email</string>
+    <string name="pword_two">Password</string>
+    <string name="sign_up_two">Sign Up</string>
+    <string name="sign_in_google">Sign In using Google</string>
+    <string name="sign_in_two">Sign In</string>
+    <string name="no_account_two">if you already have an account</string>
+
+    //navigation drawer strings
+    <string name="home_text">Home</string>
+    <string name="booking_text">Booking</string>
+    <string name="news_feed">News Feed</string>
+    <string name="latest_search">Latest Search</string>
+    <string name="settings_text">Settings</string>
+    <string name="log_out">Log Out</string>
+
+    //toggle strings
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="dash_board">When you think of "MEDOM" \n\ think of proper DOCUMENTATION</string>
+
+    <string name="dash_board_text">A sure way to get your health at 100% \n\ Having access to our 24/7 services \n\ keeps your mind at peace and comfort</string>
+</resources>

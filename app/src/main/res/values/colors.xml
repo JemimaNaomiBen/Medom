@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00C3FF</color>
+    <color name="colorPrimaryDark">#069CCA</color>
+    <color name="colorAccent">#397E94</color>
+
+    //medom colors
+    <color name="blue">#00C3FF</color>
+    <color name="text_color">#404040</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="green">#28B446</color>
+</resources>
